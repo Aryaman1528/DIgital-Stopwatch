@@ -1,1 +1,1 @@
-# DIgital-Stopwatch
+It is a digital design of a stopwatch which allows the user to start, stop, reset as well as note the instantaneous time at any instant.Digital components such as HEX Display, PIPO registers, etc., have been used.
